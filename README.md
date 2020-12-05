@@ -1,4 +1,8 @@
 # myapp_vue6
+In this app:
+- [Vue.js 3](https://v3.vuejs.org/)
+- [Vuex 4](https://next.vuex.vuejs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ## Project setup
 ```
@@ -20,5 +24,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### created: 2020-12-05
+### updated: 2020-12-05
