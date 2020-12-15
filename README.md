@@ -2,7 +2,7 @@
 In this app:
 - [Vue.js 3](https://v3.vuejs.org/)
 - [Vuex 4](https://next.vuex.vuejs.org/)
-- [Tailwindcss](https://tailwindcss.com/)
+- [Tailwindcss 2](https://tailwindcss.com/)
 
 ## Project setup
 ```
